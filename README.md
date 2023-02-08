@@ -1,1 +1,3 @@
-# This is a custom react application
+# This is a simple react weather application
+
+![Screenshot](weather_app_demo.png)
